@@ -21,6 +21,7 @@ $_SESSION['success_message'] = "NO";
             <div class="col"><h1>LITTLE KIDS LEARNING CENTER</h1></div>
             <div class="col"></div>
         </div>
+        <br>
         <div class="row px-5">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
@@ -54,8 +55,14 @@ $_SESSION['success_message'] = "NO";
           </div>
       </div>
     </form>
-
+    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
   </body>
+  
+  <style>
+    body {
+      margin-top: 100px;
+    }
+  </style>
 
 </html>
