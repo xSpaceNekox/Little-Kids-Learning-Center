@@ -1,3 +1,5 @@
+AddFile bobo HAHAHA
+
 <?php session_start();
 
 $_SESSION['success_message'] = "NO";
@@ -5,6 +7,8 @@ $_SESSION['success_message'] = "NO";
 ?>
 <!doctype html>
 <html lang="en">
+
+
 
   <head>
     <meta charset="utf-8">
